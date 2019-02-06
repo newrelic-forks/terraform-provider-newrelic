@@ -75,6 +75,8 @@ github.com/paultyng/go-newrelic v3.1.0+incompatible h1:Rk4tqa9X79e8mII/Wb2LkhTRd
 github.com/paultyng/go-newrelic v3.1.0+incompatible/go.mod h1:6qjEGgk2sMkCb981StHKqGU65WZqOrLtxX6LZwRAyZo=
 github.com/paultyng/go-newrelic/v4 v4.0.0 h1:qcW5x8qZdyBgu/peLyKbSVlqIDAxBTdSWHMl+W3NDCc=
 github.com/paultyng/go-newrelic/v4 v4.0.0/go.mod h1:x5kXvMec6AoX4XYhWS50E96Qm7APfWWDNhvwyTZYij4=
+github.com/paultyng/go-newrelic/v4 v4.1.0 h1:G98LDiIAAWc5N/308eruX3rFOgqsIk2yiqgDNQsRvgg=
+github.com/paultyng/go-newrelic/v4 v4.1.0/go.mod h1:x5kXvMec6AoX4XYhWS50E96Qm7APfWWDNhvwyTZYij4=
 github.com/pelletier/go-toml v1.2.0 h1:T5zMGML61Wp+FlcbWjRDT7yAxhJNAiPPLOFECq181zc=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
 github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7 h1:rRublLXoszYPRZV8Ikd3RTmqVCW289H3FsgqRcfDZhY=
@@ -97,6 +99,7 @@ github.com/spf13/jwalterweatherman v1.0.0 h1:XHEdyB+EcvlqZamSM4ZOMGlc93t6AcsBEu9
 github.com/spf13/jwalterweatherman v1.0.0/go.mod h1:cQK4TGJAtQXfYWX+Ddv3mKDzgVb68N+wFjFa4jdeBTo=
 github.com/spf13/pflag v1.0.2 h1:Fy0orTDgHdbnzHcsOgfCN4LtHf0ec3wwtiwJqwvf3Gc=
 github.com/spf13/pflag v1.0.2/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
+github.com/spf13/pflag v1.0.3 h1:zPAT6CGy6wXeQ7NtTnaTerfKOsV6V6F8agHXFiazDkg=
 github.com/spf13/pflag v1.0.3/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
 github.com/spf13/viper v1.2.1 h1:bIcUwXqLseLF3BDAZduuNfekWG87ibtFxi59Bq+oI9M=
 github.com/spf13/viper v1.2.1/go.mod h1:P4AexN0a+C9tGAnUFNwDMYYZv3pjFuvmeiMyKRaNVlI=
